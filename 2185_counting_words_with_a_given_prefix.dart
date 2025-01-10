@@ -12,6 +12,7 @@ class Solution {
   }
 }
 
+
 void main() {
   Solution solution = Solution();
 
